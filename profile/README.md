@@ -2,6 +2,8 @@
 
 **[Play Cheese Chompers 3D on our Official Website](https://cheesechompers3d.xyz/)**
 
+[![Cheese Chompers 3D Logo](https://cheesechompers3d.xyz/1.png)](https://cheesechompers3d.xyz/)
+
 ## About the Game
 
 Cheese Chompers 3D is an innovative maze-adventure game that combines classic arcade gameplay with modern 3D mechanics. Players control adorable mouse-like creatures on a quest to navigate through elaborate cheese mazes, solve puzzles, and collect precious cheese treasures.
